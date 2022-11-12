@@ -15,14 +15,14 @@ input {
 
 button {
     background: #5f9341;
-    color: white;
+    color: white; 
     padding: 10px 20px;
     border: none;
     font-weight: bold;
 }
 
 ul {
-    margin-top: 20px;
+    margin-top: 21px;
     list-style: none;
     padding-left: 0;
 }
